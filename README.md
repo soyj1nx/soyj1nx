@@ -13,7 +13,7 @@
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
 
-- 🌱 I am currently in the race **Software Design and Development**
+- 🌱 I am currently in the race **Systems Engineer and Development**
 
 - 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
 
@@ -38,7 +38,7 @@
 </div>
 
 <!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<img src="https://cdn.discordapp.com/banners/840570257982357534/a_77e67e62b23c22d20618c54b8f9fb123.gif?size=1024&animated=true">
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
