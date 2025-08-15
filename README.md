@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
-- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
-
 - 🌱 I am currently in the race **Systems Engineer and Development**
 
 - 🏙 Creator of the [Stelar Community](https://discord.gg/8FEqDDHWrC) organization
