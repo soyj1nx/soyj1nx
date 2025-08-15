@@ -2,7 +2,7 @@
 <img src="https://cdn.discordapp.com/avatars/840570257982357534/a_6d70bd42b6015c724e4c8df851c2b505.gif?size=1024&animated=true">
 
 <!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="soyj1nx" /> </p>
 
 <!-- TROFEOS GITHUB -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
@@ -12,7 +12,7 @@
 
 - 🌱 I am currently in the race **Systems Engineer and Development**
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+- 🏙 Creator of the [Stelar Community](https://discord.gg/8FEqDDHWrC) organization
 
 - 📫 How to reach me **soynorih@gmail.com**
 
