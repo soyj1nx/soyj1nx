@@ -1,6 +1,3 @@
-<!-- RAINBOW LINE TOP -->
-<img src="https://cdn.discordapp.com/avatars/840570257982357534/a_6d70bd42b6015c724e4c8df851c2b505.gif?size=1024&animated=true" width="100%">
-
 <!-- GIF HEADER -->
 <img src="https://cdn.discordapp.com/avatars/840570257982357534/a_6d70bd42b6015c724e4c8df851c2b505.gif?size=1024&animated=true">
 
